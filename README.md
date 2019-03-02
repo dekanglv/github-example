@@ -6,5 +6,3 @@ This is a simple example repository that will be used to show how to get started
 How to Contribute
 =================
 
-
-ddaf
